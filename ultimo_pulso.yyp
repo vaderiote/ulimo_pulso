@@ -34,9 +34,11 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"ts_tileset_01","path":"tilesets/ts_tileset_01/ts_tileset_01.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"obj_kaleen","path":"objects/obj_kaleen/obj_kaleen.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"spr_tileset_01","path":"sprites/spr_tileset_01/spr_tileset_01.yy",},},
     {"id":{"name":"spr_kaleen","path":"sprites/spr_kaleen/spr_kaleen.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
